@@ -1,0 +1,15 @@
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/macbook/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/macbook/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20240327-14903-154zhjl.rb extconf.rb
+creating Makefile
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240327-14903-prqvy1

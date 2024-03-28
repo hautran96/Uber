@@ -1,0 +1,13 @@
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+/Users/macbook/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/macbook/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20240327-14903-12niz8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/macbook/Desktop/uberApp/vendor/bundle/ruby/2.7.0/gems/json-2.7.1/ext/json
+make "DESTDIR=" install
