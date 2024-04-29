@@ -1,2 +1,2 @@
 # react-native-uber-app
-Using react native clone uber app 2024
+Using react native uber app 2024
